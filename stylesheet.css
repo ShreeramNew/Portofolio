@@ -4,9 +4,8 @@
     --blue:#576ff8;
     --gray-off-white:#b9c1c5;
 }
-
 .body{
-    margin: 0px;
+    margin: 6px;
 }
 .navigate-Head{
     background-color: var(--blue);
@@ -71,14 +70,15 @@
     max-width: 700px;
     padding: 0rem;
     font-weight: bold;
-    
 }
-.body{
-    margin: 6px;
-}
+
 .section2{
     background-color: aliceblue;
     padding-top:10px;
+}
+.related-image{
+    height: 100px;
+    weight:100px;
 }
 .link-button{
     background-color:rgb(7, 138, 253);
@@ -112,5 +112,6 @@
 
 .footer-texts{
     text-decoration: none;
-}   
+}  
+
 
