@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,400;1,700&display=swap');
+:root{
+    --blue:#576ff8;
+    --gray-off-white:#b9c1c5;
+}
+
+.body{
+    margin: 0px;
+}
+.navigate-Head{
+    background-color: var(--blue);
+    padding: 10px ;
+    border-bottom-left-radius: 6px;
+}
+.navigate-ul{
+    text-align: right;
+}
+
+.navigate-text{
+   
+    text-decoration: none;
+    color: aliceblue; 
+}
+.navigate-items{
+    display: inline;
+    padding: 10px;
+  
+}
+.active{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.span{
+    color: var(--blue);
+}
+.h1{
+    font-size: 4em;
+}
+
+.center{
+    background-color: #f0f5f4;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 20px;
+    display: block;
+    margin: auto;
+    max-width: 750px;
+}
+.img{
+    height:350x;
+    width:350px;
+   
+}
+.section{
+    background-color: #cfcfd1;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    max-width: 750px;
+}
+.h2{
+    font-family: 'Merriweather', serif;
+    text-decoration: underline;
+    max-width: 300px;
+    display: block;
+    margin: auto;
+   
+}
+.h3{
+    color: #1f36b8;
+    max-width: 700px;
+    padding: 0rem;
+    font-weight: bold;
+    
+}
+.body{
+    margin: 6px;
+}
+.section2{
+    background-color: aliceblue;
+    padding-top:10px;
+}
+.link-button{
+    background-color:rgb(7, 138, 253);
+    padding: 8px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: aliceblue;
+}
+.blog-link{
+    background-color: #f0f5f4;
+    border:#011cb6;
+    color: #576ff8;
+}
+.footer{
+    background-color: var(--blue);
+}
+.footer-title{
+    padding-top: 10px;
+    padding-left: 10px;
+    color: #f0f5f4;
+}
+.logo{
+    height: 20px;
+    weight:20px;
+}
+.ul{
+    list-style-type: none;
+    text-align:left;
+}
+
+
+.footer-texts{
+    text-decoration: none;
+}   
+
