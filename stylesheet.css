@@ -14,10 +14,11 @@
 }
 .navigate-ul{
     text-align: right;
+    text-size-adjust: 10vw;
 }
 
 .navigate-text{
-   
+    text-size-adjust: 10vw;
     text-decoration: none;
     color: aliceblue; 
 }
@@ -39,6 +40,7 @@
 
 .center{
     background-color: #f0f5f4;
+    text-size-adjust: 10vw;
     padding-left: 300px;
     padding-right: 300px;
     padding-top: 20px;
@@ -47,14 +49,14 @@
     max-width: 750px;
 }
 .img{
-    height:350x;
-    width:350px;
-   
+    height:300px;
+    width: 100%;
 }
 .section{
     background-color: #cfcfd1;
     padding-top: 40px;
     padding-bottom: 20px;
+    text-size-adjust: 10vw;
     max-width: 750px;
 }
 .h2{
@@ -63,6 +65,7 @@
     max-width: 300px;
     display: block;
     margin: auto;
+    text-size-adjust: 10vw;
    
 }
 .h3{
@@ -70,6 +73,7 @@
     max-width: 700px;
     padding: 0rem;
     font-weight: bold;
+    text-size-adjust: 10vw;
 }
 
 .section2{
@@ -78,7 +82,7 @@
 }
 .related-image{
     height: 100px;
-    weight:100px;
+    width: 100%;
 }
 .link-button{
     background-color:rgb(7, 138, 253);
@@ -86,6 +90,7 @@
     border-radius: 6px;
     text-decoration: none;
     color: aliceblue;
+    text-size-adjust: 10vw;
 }
 .blog-link{
     background-color: #f0f5f4;
@@ -94,24 +99,28 @@
 }
 .footer{
     background-color: var(--blue);
+    text-size-adjust: 10vw;
 }
 .footer-title{
     padding-top: 10px;
     padding-left: 10px;
     color: #f0f5f4;
+    text-size-adjust: 10vw;
 }
 .logo{
     height: 20px;
-    weight:20px;
+    width: 20px;
 }
 .ul{
     list-style-type: none;
     text-align:left;
+    text-size-adjust: 10vw;
 }
 
 
 .footer-texts{
     text-decoration: none;
+    text-size-adjust: 10vw;
 }  
 
 
