@@ -5,7 +5,7 @@
     --gray-off-white:#b9c1c5;
 }
 .body{
-    margin: 6px;
+    margin: 0;
 }
 .navigate-Head{
     background-color: var(--blue);
@@ -115,6 +115,7 @@
     list-style-type: none;
     text-align:left;
     text-size-adjust: 10vw;
+    padding-bottom: 20px;
 }
 
 
@@ -122,5 +123,38 @@
     text-decoration: none;
     text-size-adjust: 10vw;
 }  
+
+@media screen and (max-width:650px){
+    .h1{
+        font-size: 3em;
+    }
+    
+    .center{
+        background-color: #d1e2df;
+        padding-left: 30px;
+        padding-right: 30px;
+        max-width: 600px;
+    }
+    .section{
+        background-color: #cfcfd1;
+        max-width: 600px;
+    }
+    .h2{
+        max-width: 600px;
+    }
+    .h3{
+        color: #1f36b8;
+        max-width: 600px;
+    }
+    
+    .section2{
+        background-color: aliceblue;
+    }
+
+    .footer{
+        background-color: var(--blue);
+        text-size-adjust: 10vw;
+    }
+}
 
 
