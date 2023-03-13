@@ -4,8 +4,14 @@
     --blue:#576ff8;
     --gray-off-white:#b9c1c5;
 }
+.html{
+   
+    margin: 0px;
+}
 .body{
-    margin: 0;
+    display: inline;
+    margin: 0px;
+    padding: 0px;
 }
 .navigate-Head{
     background-color: var(--blue);
@@ -154,6 +160,9 @@
     .footer{
         background-color: var(--blue);
         text-size-adjust: 10vw;
+    }
+    .blog-head{
+        padding: 10px;
     }
 }
 
